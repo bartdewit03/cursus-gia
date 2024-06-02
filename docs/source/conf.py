@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Cursus GIA'
+copyright = '2024, Bart De Wit - UGent'
+author = 'Bart De Wit'
 
 release = '0.1'
 version = '0.1.0'
