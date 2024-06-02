@@ -1,1 +1,8 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
 
+[project]
+name = "cursus GIA"
+authors = [{name = "Bart De Wit", email = "bart.dewit@ugent.be"}]
+dynamic = ["version", "description"]
