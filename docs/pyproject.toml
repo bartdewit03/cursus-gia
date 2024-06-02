@@ -1,0 +1,3 @@
+[build-system]
+requires = ["sphinx", "sphinx-rtd-theme"]
+build-backend = "sphinx"
